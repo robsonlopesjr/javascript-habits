@@ -2,11 +2,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=yellow&style=for-the-badge&logo=JS"/>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=Contrução&color=red&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=Andamento&color=red&style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img alt="habits" title="#habits" src="https://raw.githubusercontent.com/robsonlopesjr/javascript-nlw-setup-rocketseat/84b2721c0092c898cd9fb62e5389eee45efce0db/assets/print-habits.jpeg" />
+  <img alt="habits" title="#habits" src="https://github.com/robsonlopesjr/javascript-nlw-setup-rocketseat/blob/master/assets/print-habits.jpeg?raw=true" />
 </p>
 
 ---
