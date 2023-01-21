@@ -1,60 +1,46 @@
-<h1>Habits</h1>
+<h1 align="center"> Habits </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=yellow&style=for-the-badge&logo=JS"/>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=Andamento&color=red&style=for-the-badge"/>
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.<br />
 </p>
 
 <p align="center">
-  <img alt="habits" title="#habits" src="https://github.com/robsonlopesjr/javascript-nlw-setup-rocketseat/blob/master/assets/print-habits.jpeg?raw=true" />
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
----
-
-### 📖 Tópicos
-
-:small_blue_diamond: [Descrição do projeto](#-descrição-do-projeto)
-
-:small_blue_diamond: [Funcionalidades](#-funcionalidades)
-
-:small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#-linguagens-dependencias-e-libs-utilizadas)
-
-:small_blue_diamond: [Autor](#-autor)
-
----
-
-## 💻 Descrição do projeto
-
-<p align="justify">
-  O Habits é um Habit tracker, ou seja, é um sistema que auxilia o utilizador a ter um controle de hábitos através do acompanhamento constante.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
----
+<br>
 
-## ⚙️ Funcionalidades
+<p align="center">
+  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+</p>
 
-:heavy_check_mark: controle de hábitos.
+## 🚀 Tecnologias
 
----
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## 🛠 Linguagens, dependências e libs utilizadas
+- HTML e CSS
+- JavaScript
+- Figma
 
-:warning: HTML5
+## 💻 Projeto
 
-:warning: CSS3
+O Habits é um Habit tracker, ou seja, é um sistema que auxilia o utilizador a ter um controle de hábitos através do acompanhamento constante.
 
-:warning: Javascript
+## 🔖 Layout
 
----
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## 🎓 Autor
+## :memo: Licença
 
-<a href="https://www.instagram.com/robsonlopesjr/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/69487360?s=400&u=7956928a6764b5ab125fccfa6350c58e3414e2ff&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Robson Júnior</b></sub></a>
- <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Robson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robsonlopesjr)](https://www.linkedin.com/in/robsonlopesjr)
+Esse projeto está sob a licença MIT.
 
 ---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
