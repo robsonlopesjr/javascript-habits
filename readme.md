@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um Habit tracker, ou seja, é um sistema que auxilia o utilizador a ter um controle de hábitos através do acompanhamento constante.
 
+- [Acesse o projeto finalizado, online](https://robsonlopesjr.github.io/javascript-nlw-setup-rocketseat/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
